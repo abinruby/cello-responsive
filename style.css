@@ -1,0 +1,100 @@
+ body{
+    background-color: red;
+    margin: 0px;    
+ }
+ .categoriesHomePageBg,.categoriesHomeWrap,.catWrap{
+   padding-top: 5%;
+  width: 100%;
+  background: url("https://www.cellowriting.com/public/img/home-page-bg.jpg");
+ background-size: cover;
+ 
+}
+.fa-brands{
+   padding-right: 1em;
+    margin-left: 1em;
+    cursor: pointer;
+}
+.nav-link:hover .dropdown-menu{
+   display: block;
+}
+.productThumbnailWrap,.headingWraper,.heading{
+   color: red;
+   font-size: 20px;
+   font-weight: bold;
+   margin-bottom: 15px;
+   text-align: center;
+}
+@media only screen and (max-width: 959px){
+.productThumbnailWrap .headingWrapper .heading {
+    font-size: 22px;
+}
+}
+.img-card1{
+   background: url("https://www.cellowriting.com/public/img/home-page-cat1.jpg");
+   height: 25em;
+}
+.img-card2{
+   background: url("https://www.cellowriting.com/public/img/home-page-cat3.jpg");
+   height: 25em;
+}
+.img-card3{
+   background: url("https://www.cellowriting.com/public/img/home-page-cat5.jpg");
+   height: 25em;
+}
+.img-card4{
+   background: url("https://www.cellowriting.com/public/img/home-page-cat2.jpg");
+   height: 25em;
+}
+.img-card5{
+   background: url("https://www.cellowriting.com/public/img/home-page-cat4.jpg");
+   height: 25em;
+}
+.img-card6{
+   background: url("https://www.cellowriting.com/public/img/home-page-cat6.jpg");
+   height: 25em;
+}
+.circle{
+   height: 15em;
+   width: 15em;
+   background-color: white;
+   text-align: center;
+   border: 5px solid red;
+   
+}
+.tab{
+   height: 10em;
+   background-color: red;
+}
+.circle-text{
+   color: red;
+   font-size: 5em;
+   padding-top: 0.3em;
+}
+.text-2{
+color: red;
+font-weight: 700;
+}
+.text-3{
+   color: red;
+font-weight: 700;
+text-align: center;
+padding-top: 1em;
+font-size: 2em;
+}
+.we{
+   padding-top: 3em;
+   text-align: center;
+}
+.b1{
+   left: 44%;
+}
+footer{
+   background-color: red;
+}
+.text-f{
+   color: white;
+   text-decoration: none;
+}
+.text-f:hover{
+   color: yellow;
+}
